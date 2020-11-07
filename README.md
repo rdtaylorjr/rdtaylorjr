@@ -1,6 +1,6 @@
 ### Hi there, I'm Russell Taylor
 
-I’m looking to collaborate on: open source projects. I'm most proficient in C++, Java, and Python, but happy to learn whatever technologies are needed in order to contribute and make a difference
+I’m looking to collaborate on: open source projects. I'm most proficient in C++, Java, and Python, but happy to learn whatever technologies are needed in order to contribute
 
 I’m currently learning: Pandas, NumPy, Matplotlib, Scikit and all about Machine Learning
 
