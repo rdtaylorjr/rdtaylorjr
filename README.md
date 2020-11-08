@@ -1,6 +1,6 @@
 ### Hi there, I'm Russell Taylor
 
-I'm looking for pro-bono contract work writing and deploying software in exchange for feedback and mentorship. I am currently a Computer Science student and I'll be happy to work for free.
+I'm currently looking for contract work writing and deploying software in exchange for feedback and mentorship. I am close to graduating with a degree in Computer Science and I'll be happy to work for free.
 
 I'm proficient in: C++, Java, and Python, and I'd love to learn whatever other technologies are needed in order to contribute.
 
