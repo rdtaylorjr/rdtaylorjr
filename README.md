@@ -1,6 +1,6 @@
 ### Hi there, I'm Russell Taylor
 
-I'm open to contract work writing and deploying software in exchange for feedback and mentorship. I am close to graduating with a degree in Computer Science and I'll be happy to work for free.
+I'm open to: contract work writing and deploying software in exchange for feedback and mentorship.
 
 I'm proficient in: C++, Java, and Python, and I'd love to learn any other technologies needed in order to contribute.
 
