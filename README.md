@@ -2,7 +2,7 @@
 
 I'm open to: contract work writing and deploying software in exchange for feedback and mentorship.
 
-I'm proficient in: C++, Java, and Python, and I'd love to learn any other technologies needed in order to contribute.
+I'm proficient in: C++, Java, and Python, and I'll be happy to learn any other technologies needed in order to contribute.
 
 I’m currently learning: Pandas, NumPy, Matplotlib, Scikit and all about Machine Learning
 
