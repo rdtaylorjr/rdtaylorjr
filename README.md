@@ -1,6 +1,8 @@
 ### Hi there, I'm Russell Taylor
 
-I'm enthusiastic, detail-oriented and motivated by difficult challenges. I have previous experience leading a non-profit organization, and am finally pursuing a lifelong passion for software development.
+I love accomplishing things that seem impossible. 
+
+I have experience in: developing software for academic researchers that involves complex, highly-specialized right-to-left language datasets.
 
 I'm open to: contract work writing and deploying software in exchange for feedback and mentorship.
 
