@@ -2,7 +2,7 @@
 
 I love accomplishing things that seem impossible. 
 
-I have experience in: developing software for academic researchers that involves complex, highly-specialized right-to-left language datasets.
+I have experience in: developing software for academic researchers that involving complex, highly-specialized right-to-left language datasets.
 
 I'm open to: contract work writing and deploying software in exchange for feedback and mentorship.
 
