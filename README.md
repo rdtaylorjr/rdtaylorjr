@@ -1,23 +1,9 @@
 ### Hi there, I'm Russell Taylor
 
-I'm open to: contract work writing and deploying software in exchange for feedback and mentorship.
+I am graduating with a Bachelor of Science in Computer Science in December 2020 and beginning a Master's degree in Computer Science at Georgia Tech next Fall. I am proficient in C++, Java, and Python, and have worked with a variety of other languages and technologies. I have a solid understanding of data structures and algorithms, and I write code that is clean, elegant, and robust.
 
-I'm proficient in: C++, Java, and Python, and I'll be happy to learn any other technologies needed in order to contribute.
+Prior to pursuing a career in software development, I was an academic researcher in Ancient Middle Eastern Languages. As part of that work, I created and maintained complex, highly-specialized right-to-left language datasets optimized for natural language processing. Those datasets enabled comprehensive syntactic tagging of key ancient texts, and led to several new discoveries about ancient middle eastern linguistics, history, and culture.
 
-I’m currently learning: Pandas, NumPy, Matplotlib, Scikit and all about Machine Learning
+When I am not coding, you will most likely find me running. Last February, I ran my first 100 mile ultra-marathon. It required an intense level of preparation and skill, not only in physical training, but in managing every detail of nutrition, equipment, weather, pacing, and elevation. More than any of that, it required adapting to and overcoming a stream of unexpected problems and challenges in every one of those areas. I believe that learning to solve problems well is the key to writing excellent code.
 
-How to reach me: rdtaylorjr@protonmail.com
-
-Fun fact: I love running ultra-marathons and I'm passionate about advocating for children in foster care and children with special needs
-
-<!--
-**rdtaylorjr/rdtaylorjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on a machine learning 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
+Thanks for stopping by and please feel free to let me know if you're interested in collaborating on any projects!
