@@ -8,4 +8,4 @@ When I am not coding, you will often find me running. Last February, I ran my fi
 
 Thanks for stopping by! I'd love to hear from you if you have any feedback or if you're interested in collaborating on any projects!
 
-Nope
+Practice
