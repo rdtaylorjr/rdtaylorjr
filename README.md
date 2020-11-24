@@ -7,3 +7,5 @@ Prior to pursuing a career in software development, I was an academic researcher
 When I am not coding, you will often find me running. Last February, I ran my first 100 mile ultra-marathon. Ultra running is fundamentally about adapting to and overcoming a stream of unexpected problems and challenges. It has taught me how to solve problems well, and I believe that solving problems well is the key to writing excellent code.
 
 Thanks for stopping by! I'd love to hear from you if you have any feedback or if you're interested in collaborating on any projects!
+
+Thanks
