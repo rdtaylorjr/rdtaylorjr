@@ -1,6 +1,6 @@
 ### Thanks for stopping by!
 
-I'd love to hear from you if you're interested in collaborating on any projects! I have a bachelor of science in Computer Science and plan to begin a master of science in Computer Science at Georgia Tech next Fall. I am proficient in C++, Java, and Python, and have worked with a variety of other languages and technologies. 
+I'd love to hear from you if you're interested in collaborating on any projects! I have a bachelor of science in Computer Science and plan to begin an online master of science in Computer Science at Georgia Tech next Fall. I am proficient in C++, Java, and Python, and have worked with a variety of other languages and technologies. 
 
 Prior to pursuing a career in software development, I was an academic researcher specializing in Ancient Middle Eastern Languages. As part of that work, I created and maintained complex, highly-specialized right-to-left language datasets optimized for natural language processing. Those datasets enabled comprehensive syntactic tagging of ancient texts, and led to several new discoveries about ancient middle eastern linguistics, history, and culture.
 
