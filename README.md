@@ -2,7 +2,7 @@
 
 I'm currently working as part of the Logos Desktop team at Faithlife. I have a Bachelor of Science in Computer Science and am beginning the online Master of Science in Computer Science (OMSCS) program at Georgia Tech next Fall. 
 
-C++ is my first love, but I've also worked with Java, Python, Objective-C, SQL, and a variety of other languages and technologies. 
+C++ is my first love, but I've also worked with Java, Python, Swift, Objective-C, SQL, and a variety of other languages and technologies. 
 
 Prior to pursuing a career in software development, I was an academic researcher specializing in Ancient Middle Eastern Languages. As part of that work, I created and maintained complex, highly-specialized right-to-left language datasets optimized for natural language processing. Those datasets enabled comprehensive syntactic tagging of ancient texts, and led to several new discoveries about ancient middle eastern linguistics, history, and culture.
 
