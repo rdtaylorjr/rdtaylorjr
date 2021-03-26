@@ -8,4 +8,4 @@ Prior to pursuing a career in software development, I was an academic researcher
 
 When I'm not coding, you will often find me running. In February 2020, I ran my first 100 mile ultra-marathon. Ultra running has taught me that any problem can be solved with enough preparation, adaptation, and determination. And I believe that mindset is the key to writing excellent code.
 
-I'd love to connect with you and collaborate on any interesting projects! Enjoy looking around and have an amazing day!
+I'd love to connect with you and collaborate on any interesting projects! Have an amazing day!
