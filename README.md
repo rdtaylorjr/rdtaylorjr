@@ -1,6 +1,6 @@
 ### Thanks for stopping by!
 
-I'm a recent graduate with a bachelor of science in computer science and have accepted a position as a software engineer at Lockheed Martin. I'm also beginning the online master of science in computer science (OMSCS) program at Georgia Tech this fall, specializing in computing systems. 
+I recently accepted a position as a software engineer at Lockheed Martin. I'm also beginning the online master of science in computer science (OMSCS) program at Georgia Tech this fall, specializing in computing systems. 
 
 C++ is my first love, but I've also worked with Java, Python, Swift, Objective-C, SQL, and a variety of other languages and technologies. 
 
