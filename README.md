@@ -1,8 +1,8 @@
 ### Thanks for stopping by!
 
-I recently earned a bachelor of science in computer science and am working as a Software Engineer at TCS. I'm also beginning the online master of science in computer science (OMSCS) program at Georgia Tech this fall, specializing in computing systems. 
+I am a Software Engineer at TCS and will begin the online Master of Science in Computer Science (OMSCS) program at Georgia Tech this fall, specializing in Computing Systems. 
 
-C++ is my first love, but I've also worked with Java, Python, Swift, Objective-C, SQL, and a variety of other languages and technologies. 
+C++ is my first love, but I've also worked with Java, Python, Swift, Objective-C, SQL, Node.js and a variety of other languages and technologies. 
 
 Prior to pursuing a career in software engineering, I was an academic researcher specializing in ancient near eastern languages. As part of that work, I created and maintained complex, highly-specialized right-to-left language datasets optimized for natural language processing. Those datasets enabled comprehensive syntactic tagging of ancient texts, and led to several new discoveries about ancient middle eastern linguistics, history, and culture.
 
