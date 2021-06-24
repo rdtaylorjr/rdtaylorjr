@@ -1,6 +1,6 @@
 ### Thanks for stopping by!
 
-I am a Software Engineer at TCS and will begin the online Master of Science in Computer Science (OMSCS) program at Georgia Tech this fall, specializing in Computing Systems. 
+I am a software engineer at TCS and will begin the online master of science in computer science (OMSCS) program at Georgia Tech this fall, specializing in computing systems. 
 
 C++ is my first love, but I've also worked with Java, Python, Swift, Objective-C, SQL, Node.js and a variety of other languages and technologies. 
 
