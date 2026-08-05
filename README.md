@@ -10,4 +10,4 @@ When I'm not coding or reading ancient texts, I enjoy trail running in the Color
 
 I would love to connect with you and collaborate on interesting projects! Have an awesome day!
 
-[ORCID](https://orcid.org/0009-0007-0702-2375) · [Google Scholar](https://scholar.google.com/citations?user=6Pdt-psAAAAJ) · [Academia.edu](https://gatech.academia.edu/rdtaylorjr) · [LinkedIn](https://www.linkedin.com/in/rdtaylorjr)
+[ORCID](https://orcid.org/0009-0007-0702-2375) · [Google Scholar](https://scholar.google.com/citations?user=6Pdt-psAAAAJ) · [LinkedIn](https://www.linkedin.com/in/rdtaylorjr)
