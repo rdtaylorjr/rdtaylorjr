@@ -1,6 +1,6 @@
 ### Thanks for stopping by!
 
-My research focuses on computational analysis of Psalms in the Hebrew Bible ([tehillim.dev](https://tehillim.dev)). 
+My research focuses on computational analysis of Psalms in the Hebrew Bible · [tehillim.dev](https://tehillim.dev). 
 
 I'm an instructional associate at Georgia Tech for graduate level CS6601 Artificial Intelligence, and work as a senior software engineer at Spectrum building real-time, distributed systems. I've earned graduate degrees in Computer Science / AI (Georgia Tech) and Old Testament and Semitic Languages (TEDS). 
 
